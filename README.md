@@ -1,6 +1,5 @@
-# This Repo is no longer being maintained
+# This Repo Is No Longer Being Maintained
 
-## Future Development
 General gRPC support for LabVIEW is being developed here:
 https://github.com/ni/grpc-labview
 
