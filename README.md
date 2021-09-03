@@ -1,4 +1,12 @@
-# Example gRPC Service for LabVIEW
+# This Repo is no longer being maintained
+
+## Future Development
+General gRPC support for LabVIEW is being developed here:
+https://github.com/ni/grpc-labview
+
+The grpc-labview repo contains an example which matches the query server from this repo.
+# _
+## Example gRPC Service for LabVIEW
 
 This repo contains an example / pattern to use to implement a gRPC server / client for LabVIEW.
 query_server.proto defines a simple query service that can be used for a variety of purposes.  
